@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.0)
+cmake_minimum_required(VERSION 3.5...4.0)
 project(lua-mp)
 
 add_library(lua-mp MODULE mp.c)
